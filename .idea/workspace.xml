@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dc70233f-616a-48a8-94f3-47f41353166c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/basic.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server_global_variables.php" beforeDir="false" afterPath="$PROJECT_DIR$/server_global_variables.php" afterDir="false" />
-    </list>
+    <list default="true" id="dc70233f-616a-48a8-94f3-47f41353166c" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,6 +40,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -72,12 +69,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1576074918884</updated>
-      <workItem from="1576074920271" duration="13483000" />
+      <workItem from="1576074920271" duration="13724000" />
     </task>
+    <task id="LOCAL-00001" summary="initial commit">
+      <created>1576093747129</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1576093747129</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="263" y="26" key="#CLI_Interpreters" timestamp="1576075109392">
@@ -88,6 +97,10 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="406" y="0" key="#PHP/0.0.1366.738/1366.0.1366.738@0.0.1366.738" timestamp="1576075112931" />
+    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1576093746180">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.738/1366.0.1366.738@0.0.1366.738" timestamp="1576093746180" />
     <state x="463" y="126" key="FileChooserDialogImpl" timestamp="1576075101174">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
@@ -100,5 +113,9 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="197" y="22" key="SettingsEditor/0.0.1366.738/1366.0.1366.738@1366.0.1366.738" timestamp="1576080900593" />
+    <state x="275" y="101" key="Vcs.Push.Dialog.v2" timestamp="1576093749686">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="275" y="101" key="Vcs.Push.Dialog.v2/0.0.1366.738/1366.0.1366.738@0.0.1366.738" timestamp="1576093749686" />
   </component>
 </project>
