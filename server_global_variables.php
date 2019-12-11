@@ -34,6 +34,4 @@ print_r($_SERVER);
 echo '<pre>';
 print_r($_ENV); // shows all OS information (default = false)
 
-
-
 ?>
