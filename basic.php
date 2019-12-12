@@ -6,6 +6,20 @@
 //is_null() - ফাংশন ভ্যারিয়েবলটি নাল(null) বা ফাঁকা কিনা চেক করে।
 //is_string() - ফাংশন ভ্যারিয়েবলটি স্ট্রিং(string) কিনা চেক করে।
 
+// strlen();
+// count();
+// str_word_count();
+// strrev();
+// strpos();
+// str_replace();
+
+//sort()
+//asort()
+//ksort()
+//rsort()
+//arsort()
+//krsort()
+
 /////////////////////////////////////////* Section 1 */////////////////////////////////////////////////
 
 echo '<hr> #Section 1: Echo & Print <hr>';
@@ -352,6 +366,16 @@ $num = array(2,6,8,1,6,8);
 
 sort($num);
 
+# 4
+
+$age = array("Zehad"=>"22", "Saleh"=>"23", "Aziz"=>"32");
+ksort($age);
+
+foreach($age as $key => $value)
+{
+    echo "Key=" . $key . ", Value=" . $value . "<br>";
+}
+
 /////////////////////////////////////////* Section 12 */////////////////////////////////////////////////
 
 # 1
@@ -476,6 +500,4 @@ foreach($lines as $line){
 
 ?>
 
-
-
-
+// php full form = Hypertext Preprocessor
